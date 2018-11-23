@@ -1,0 +1,4 @@
+#Fri Nov 23 01:51:17 PST 2018
+base.0=M\:\\Data Project\\Projek AS\\Metode Harvesine\\Metode Harversine\\Android-Haversine-Formula-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=M\:\\Data Project\\Projek AS\\Metode Harvesine\\Metode Harversine\\Android-Haversine-Formula-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

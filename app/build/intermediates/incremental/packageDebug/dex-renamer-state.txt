@@ -1,0 +1,7 @@
+#Fri Nov 23 01:51:17 PST 2018
+base.0=M\:\\Data Project\\Projek AS\\Metode Harvesine\\Metode Harversine\\Android-Haversine-Formula-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_85a68541d535e462f14e61c5b8cc5e65fecc9a33
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=M\:\\Data Project\\Projek AS\\Metode Harvesine\\Metode Harversine\\Android-Haversine-Formula-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_754ae8f328f5a36cef08c98a9fc436a7647ff9d0\\classes.dex
+base.1=M\:\\Data Project\\Projek AS\\Metode Harvesine\\Metode Harversine\\Android-Haversine-Formula-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_754ae8f328f5a36cef08c98a9fc436a7647ff9d0
+file.0=M\:\\Data Project\\Projek AS\\Metode Harvesine\\Metode Harversine\\Android-Haversine-Formula-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_85a68541d535e462f14e61c5b8cc5e65fecc9a33\\classes.dex

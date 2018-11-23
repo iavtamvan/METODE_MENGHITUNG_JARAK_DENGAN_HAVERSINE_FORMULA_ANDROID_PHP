@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf4cc51d34f5c07190ce533cc7860a697628306f">
+        <dex dex="M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_754ae8f328f5a36cef08c98a9fc436a7647ff9d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_85a68541d535e462f14e61c5b8cc5e65fecc9a33\classes.dex" />
+    </item>
+
+</items>

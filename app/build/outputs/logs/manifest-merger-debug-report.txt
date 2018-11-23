@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:11:22-95
+application
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:13:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\iav\.android\build-cache\642ff02b3d2fca65ae34bb252303d86acbf38738\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\iav\.android\build-cache\73540cbefaf98640fc8d811475f86a6d3329abdb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\iav\.android\build-cache\2b0dbb2774172beda8662ee83bc884bb8940c8a9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\iav\.android\build-cache\c256410c838c7ed70162736fd99204a6d4e72e33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\iav\.android\build-cache\1a14ba0f3c093347ba7ec28198115782d8109697\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\iav\.android\build-cache\e1ca11bcd4f50b3e93a2d337445725c5841add19\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\iav\.android\build-cache\11fc73660ed3b2e0e629ce2444f706091eb4f29d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\iav\.android\build-cache\33c2fdfed2b3634315e1fb641964388beb0a9e33\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\iav\.android\build-cache\a3edb7d1026cc522514a71a3e6c793fe9c97ba47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\iav\.android\build-cache\6f6bb1400f633c8ec67d08619fafe910452ae8ff\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:14:9-67
+activity#com.dedykuncoro.haversine.SplashScreen
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:21:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.dedykuncoro.haversine.MainActivity
+ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:28:9-75
+	android:name
+		ADDED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml:28:19-72
+uses-sdk
+INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\iav\.android\build-cache\642ff02b3d2fca65ae34bb252303d86acbf38738\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\iav\.android\build-cache\73540cbefaf98640fc8d811475f86a6d3329abdb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\iav\.android\build-cache\2b0dbb2774172beda8662ee83bc884bb8940c8a9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\iav\.android\build-cache\c256410c838c7ed70162736fd99204a6d4e72e33\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\iav\.android\build-cache\1a14ba0f3c093347ba7ec28198115782d8109697\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\iav\.android\build-cache\e1ca11bcd4f50b3e93a2d337445725c5841add19\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\iav\.android\build-cache\11fc73660ed3b2e0e629ce2444f706091eb4f29d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\iav\.android\build-cache\33c2fdfed2b3634315e1fb641964388beb0a9e33\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\iav\.android\build-cache\a3edb7d1026cc522514a71a3e6c793fe9c97ba47\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\iav\.android\build-cache\6f6bb1400f633c8ec67d08619fafe910452ae8ff\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\iav\.android\build-cache\642ff02b3d2fca65ae34bb252303d86acbf38738\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+		INJECTED from M:\Data Project\Projek AS\Metode Harvesine\Metode Harversine\Android-Haversine-Formula-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\iav\.android\build-cache\642ff02b3d2fca65ae34bb252303d86acbf38738\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\iav\.android\build-cache\73540cbefaf98640fc8d811475f86a6d3329abdb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\iav\.android\build-cache\2b0dbb2774172beda8662ee83bc884bb8940c8a9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\iav\.android\build-cache\c256410c838c7ed70162736fd99204a6d4e72e33\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\iav\.android\build-cache\1a14ba0f3c093347ba7ec28198115782d8109697\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\iav\.android\build-cache\e1ca11bcd4f50b3e93a2d337445725c5841add19\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\iav\.android\build-cache\11fc73660ed3b2e0e629ce2444f706091eb4f29d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\iav\.android\build-cache\33c2fdfed2b3634315e1fb641964388beb0a9e33\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\iav\.android\build-cache\a3edb7d1026cc522514a71a3e6c793fe9c97ba47\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\iav\.android\build-cache\642ff02b3d2fca65ae34bb252303d86acbf38738\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\iav\.android\build-cache\642ff02b3d2fca65ae34bb252303d86acbf38738\output\AndroidManifest.xml:26:9-47
